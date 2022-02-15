@@ -1,0 +1,17 @@
+C:\Users\batad\Desktop\Kladionica\Kladionica\bin\Debug\Kladionica.exe
+C:\Users\batad\Desktop\Kladionica\Kladionica\bin\Debug\Kladionica.pdb
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.csprojResolveAssemblyReference.cache
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Form1.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Properties.Resources.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.csproj.GenerateResource.Cache
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.exe
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.pdb
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Rulet.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Pocetna.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Registracija.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.MBox.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Admin.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.PodesavanjeKorisnika.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Slot.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Psi.resources
+C:\Users\batad\Desktop\Kladionica\Kladionica\obj\Debug\Kladionica.Utakmice.resources

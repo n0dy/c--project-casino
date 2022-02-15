@@ -1,0 +1,9 @@
+Ime:123
+Prezime:123
+Password:123
+Grupa:2
+Broj clanstva:2
+Stanje na računu:517
+Pinkod:8369
+Banovan: 0
+Banovan razlog:      
